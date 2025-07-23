@@ -1,89 +1,141 @@
-# Hi there, I'm Manveer Kushwaha 👋
-
-<a href="https://github.com/manveerkushwaha">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=manveerkushwaha&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="Manveer's GitHub Stats">
-</a>
-
-I'm a passionate and results-driven Computer Science student with a minor in Data Science at Sharda University. My focus is on leveraging data to solve real-world problems through Machine Learning, Data Analysis, and AI. I thrive on transforming complex datasets into actionable insights and building intelligent systems.
-
-- 🎓 Currently pursuing a **B.Tech in Computer Science & Engineering** (2022 - 2026).
-- 💡 My core interests are in **Data Science, Machine Learning, and Natural Language Processing**.
-- 🔬 I have experience in academic research, with **one published paper** and more in progress.
-- 👨‍💻 I love building end-to-end projects, from data preprocessing and model training to deployment and visualization.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Manveer Kushwaha 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" width="30"/>
+  </h1>
+  <p align="center">
+    <a href="your-linkedin-url" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://leetcode.com/your-leetcode-url/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="mailto:manveerkush@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Connect with me
+### 👨‍💻 About Me
 
-<!-- ✍️ UPDATE THESE HYPERLINKS with your actual profile URLs! -->
+I am a passionate and driven Computer Science student with a minor in Data Science at Sharda University. My expertise lies in Python, Java, and Data Analysis, with a strong foundation in Data Structures & Algorithms. I enjoy transforming complex data into actionable insights and building efficient, scalable solutions. Currently, I'm diving deep into Machine Learning and developing forecasting models.
+
+- 🎓 Studying *B.Tech in Computer Science & Engineering (Minor in Data Science)*.
+- 🌱 Exploring the depths of *Machine Learning, **Deep Learning (CNN & LSTM), and **Data Visualization*.
+- 💡 Passionate about solving complex problems and collaborating on innovative projects.
+- 💬 Ask me about *Python, **Data Analysis, or my journey through **[150+ DSA problems on LeetCode](your-leetcode-url)*.
+- 📫 How to reach me: *manveerkush@gmail.com*
+
+---
+
+### 🛠 My Tech Stack
+
+Here are the languages, frameworks, and tools I work with:
+
 <p align="left">
-  <a href="mailto:manveerkush@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <strong>Languages:</strong><br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
----
+<p align="left">
+  <strong>Frameworks & Libraries:</strong><br>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
+   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a>
+</p>
 
-### 🛠️ Technical Skills
-
-My toolkit includes a variety of languages, frameworks, and tools to bring ideas to life.
-
-| Category                 | Skills                                                                                                                                                             |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Languages**            | `Python` `Java` `SQL` `C`                                                                                                                                          |
-| **Data Science & ML**    | `Pandas` `NumPy` `Matplotlib` `Seaborn` `LangChain` `Scikit-learn` `TensorFlow`                                                                                      |
-| **BI & Visualization**   | `Tableau` `MS Excel` `Streamlit`                                                                                                                                   |
-| **Developer Tools**      | `VS Code` `PyCharm` `Eclipse` `IntelliJ IDEA` `Git` `GitHub`                                                                                                         |
-| **Web Development**      | `HTML` `CSS` `JavaScript`                                                                                                                                          |
-
----
-
-### 🔭 My Work & Projects
-
-Here are some of the projects I'm proud of. Many of these are also part of my academic research.
-
-| Project                                              | Description                                                                                                                                     | Technologies Used                                                    | Status / Link                                                                              |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **MediChat-AI Medical Chatbot**                      | Developed an AI agent using RAG to answer medical queries from a PDF dataset, providing sourced responses.                                      | `Python` `LangChain` `Streamlit` `RAG` `HuggingFace`                  | `📝 Currently writing paper`                                                               |
-| **Real-time Web Traffic Forecasting**                | Developed a high-performance forecasting model using deep learning, achieving 89% accuracy on benchmark datasets.                                 | `Python` `LSTM` `CNN` `Pandas`                                       | `✅ Published Paper`                                                                       |
-| **COVID-19 Vaccine Analysis**                        | Conducted a comprehensive analysis of vaccine distribution in India, visualizing trends and disparities across states.                            | `Matplotlib` `Pandas` `NumPy` `Seaborn` `Tableau`                      | `🔬 Paper under review`                                                                    |
-| **SMS Fraud Detection**                              | Analyzed over 5,000 SMS messages to build a model that classifies messages as spam or ham, identifying key fraudulent patterns.                 | `Python` `Pandas` `NumPy` `Matplotlib` `NLTK`                          | `🚀 Completed`                                                                             |
-| **Chrome Hotels Website**                            | Led the front-end development for a hotel booking website as part of a summer internship group project.                                         | `HTML` `CSS` `JavaScript`                                            | `✅ Internship Project`                                                                    |
-
----
-
-### 🏆 Achievements & Recognition
-
-- **Smart India Hackathon (SIH):** Presented as team leader in SIH 2023 & 2024, achieving a top 30 ranking in my college.
-- **Problem-Solving:** Solved **150+ DSA problems** on platforms like LeetCode, strengthening my analytical and logical skills.
-- **Leadership:** Served as **Team Coordinator** for the Technova & Pixelance societies at Sharda University, organizing and managing technical events.
-- **Certifications:**
-  - **Python for Data Science** & **Data Visualization using Python**
-  - **Java Foundation (Oracle Certified)**
+<p align="left">
+  <strong>IDE & Development Tools:</strong><br>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 ---
 
 ### 📊 My GitHub Stats & Activity
 
-<!-- ✍️ UPDATE THIS with your GitHub username! -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manveerkushwaha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manveerkushwaha&theme=dark&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffeb95&area=true&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-<!-- Optional: GitHub Visitor Counter -->
+### 🚀 My Projects
+
+Here are some of the projects I've worked on. You can find more on my repositories tab!
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Real-time Web Traffic Forecasting</h3>
+      <p>Developed a high-performance deep learning model using LSTM and CNN to forecast real-time web traffic, achieving 90% accuracy on benchmark datasets. This work is currently under process for publication.</p>
+      <strong>Technologies:</strong> Python, LSTM, CNN, Pandas
+      <br><br>
+      <a href="#">View on GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💉 COVID-19 Vaccine Analysis</h3>
+      <p>Conducted a comprehensive analysis of COVID-19 vaccine distribution in India, visualizing trends and patterns from a large dataset (7.6k+ rows) to generate insights. This research is under review at a Scopus-indexed conference.</p>
+      <strong>Technologies:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+      <br><br>
+      <a href="#">View on GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 SMS Fraud Detection</h3>
+      <p>Built a classification model to detect fraudulent (spam) SMS messages. Analyzed over 5,000 messages from a Kaggle dataset, achieving high accuracy in identifying spam, which constituted over 45% of the data.</p>
+      <strong>Technologies:</strong> Python, Pandas, NumPy, Matplotlib, Scikit-learn
+      <br><br>
+      <a href="#">View on GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏨 Chrome Hotels Website</h3>
+      <p>As part of a summer internship, I led the front-end development of a hotel booking website. This project involved creating a responsive and user-friendly interface using modern web technologies.</p>
+      <strong>Technologies:</strong> HTML, CSS, JavaScript
+      <br><br>
+      <a href="#">View on GitHub</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Achievements & Certifications
+
+- *Leadership & Communication:*
+  - 🏅 Represented my team at the *Smart India Hackathon (SIH)* in 2023 & 2024, achieving a top 30 rank in college-level rounds.
+  - 💡 Spearheaded problem-solving efforts in *Ideation 2023 & 2024*.
+  - 組織 Team Coordinator for *Technova & Pixelance* societies at Sharda University (2022-2024).
+
+- *Problem-Solving & Technical Skills:*
+  - 💻 Solved *[150+ DSA problems](your-leetcode-url)* on platforms like LeetCode.
+  - 📜 Certified in *Python for Data Science* and *Data Visualization using Python*.
+  - 📜 Certified in *Java Foundation (Oracle)*.
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manveerkushwaha&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
 </p>
-```
